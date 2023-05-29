@@ -13,3 +13,7 @@
     font-size: var(--fonte_tamanho_texto);
     font-weight: 500;
 }
+
+.footer__icone {
+    width: 9rem;
+}
