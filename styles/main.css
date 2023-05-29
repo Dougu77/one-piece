@@ -27,7 +27,7 @@
     gap: var(--gap_padrao);
 }
 
-.main__subtitulo {
+.main__links__subtitulo {
     font-weight: 500;
     font-size: var(--fonte_tamanho_subtitulo);
     text-align: center;
