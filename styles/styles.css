@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+@import url('main.css');
+@import url('footer.css');
 
 :root {
     --cor_fundo: #000000;
@@ -22,62 +24,4 @@
 body {
     box-sizing: border-box;
     background-color: var(--cor_fundo);
-}
-
-.main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 2%;
-    gap: var(--gap_padrao);
-}
-
-.main__titulo {
-    font-weight: 500;
-    font-size: var(--fonte_tamanho_titulo);
-}
-
-.main__titulo__destaque {
-    color: var(--cor_destaque);
-    font-weight: bold;
-}
-
-.main__texto {
-    font-weight: 300;
-    font-size: var(--fonte_tamanho_texto);
-}
-
-.main__links {
-    display: flex;
-    flex-direction: column;
-    gap: var(--gap_padrao);
-}
-
-.main__subtitulo {
-    font-weight: 500;
-    font-size: var(--fonte_tamanho_subtitulo);
-    text-align: center;
-}
-
-.main__links__botoes {
-    display: flex;
-    font-weight: 500;
-    font-size: var(--fonte_tamanho_texto);
-    text-decoration: none;
-    border: 2px solid var(--cor_destaque);
-    border-radius: 10px;
-    padding: var(--padding_padrao);
-    justify-content: center;
-}
-
-.main__links__botoes:hover {
-    background-color: var(--cor_hover);
-}
-
-.footer {
-    background-color: var(--cor_destaque);
-    text-align: center;
-    font-weight: 300;
-    font-size: var(--fonte_tamanho_texto);
-    padding: var(--padding_padrao);
 }
