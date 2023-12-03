@@ -1,6 +1,7 @@
 # One Piece
-* Primeiro projeto pessoal de desenvolvimento Web.
-* A ideia do projeto é facilitar a busca por informações sobre One Piece.
+
+* First personal project using HTML / CSS.
+* The site is a link aggregator about One Piece information.
 * Link: https://one-piece-links.vercel.app/
 * QR Code:
 ![QR Code](https://github.com/Dougu77/one-piece/blob/main/qr-code.png)
