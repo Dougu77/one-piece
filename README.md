@@ -12,6 +12,6 @@
 - The website is a link aggregator about One Piece information.
 - Website used to create the QR code: [QRCode Monkey](https://www.qrcode-monkey.com/).
 
-## QR Code:
+## QR Code
 
 ![QR Code](https://github.com/Dougu77/one-piece/blob/main/qr-code.png)
